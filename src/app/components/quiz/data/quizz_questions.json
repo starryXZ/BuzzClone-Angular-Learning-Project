@@ -1,0 +1,55 @@
+{
+  "title":"qual dinossauro clássico você seria",
+  "questions":[
+    {
+      "id":1,
+      "question": "você prefere aves ou répteis ?",
+      "options":[
+        {"id": 1, "name":"répteis", "alias":["A", "C"]},
+        {"id": 2, "name":"aves", "alias":"B"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "você prefere frutas ou carne ?",
+      "options":[
+        {"id": 1, "name":"carne", "alias":"B"},
+        {"id": 2, "name":"frutas", "alias":["A", "C"]}
+      ]
+    },
+    {
+      "id":3,
+      "question": "prefere defesa ou ataque ?",
+      "options":[
+        {"id": 1, "name":"defesa", "alias":"C"},
+        {"id": 2, "name":"ataque", "alias":["A", "B"]}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual o seu maior foco ?",
+      "options":[
+        {"id": 1, "name":"Ficar rico", "alias":"A"},
+        {"id": 2, "name":"Ser famoso", "alias":"B"},
+        {"id": 2, "name":"Salvar o mundo", "alias":"C"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "você prefere ser: ",
+      "options":[
+        {"id": 1, "name":"agil", "alias":"B"},
+        {"id": 2, "name":"pesado", "alias":"C"},
+        {"id": 3, "name":"forte", "alias":"A"}
+
+      ]
+    }
+  ],
+  "results": {
+    "A": "triceratops",
+    "B": "tiranossauro",
+    "C": "brachiossauro"
+
+    
+  }
+}
